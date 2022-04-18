@@ -1,0 +1,22 @@
+{
+  "name": "first-serverless-bryan-stanski",
+  "version": "1.0.0",
+  "description": "Learn how to use serverless functions in less than 30 minutes!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RVCC-IDMX/first-serverless-bryan-stanski.git"
+  },
+  "author": "Bryan Stanski <bryan.with.a.wi@gmail.com> (https://github.com/bryan-stanski)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RVCC-IDMX/first-serverless-bryan-stanski/issues"
+  },
+  "homepage": "https://github.com/RVCC-IDMX/first-serverless-bryan-stanski#readme",
+  "devDependencies": {
+    "node-fetch": "^3.2.3"
+  }
+}
