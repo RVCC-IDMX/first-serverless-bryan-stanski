@@ -18,5 +18,10 @@
   "homepage": "https://github.com/RVCC-IDMX/first-serverless-bryan-stanski#readme",
   "devDependencies": {
     "node-fetch": "^3.2.3"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "full-icu": "^1.4.0",
+    "luxon": "^2.3.2"
   }
 }
